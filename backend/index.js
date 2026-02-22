@@ -19,7 +19,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://aivirtual-assistant-frountend.onrender.com",
     credentials: true,
   })
 );
