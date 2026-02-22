@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import bg from "../assets/authBg.png";
 import { useNavigate } from "react-router-dom";
-import { userDataContext } from "../context/userContext";
+import { userDataContext } from "../context/UserContext";
 import axios from "axios";
 
 const SignIn = () => {
