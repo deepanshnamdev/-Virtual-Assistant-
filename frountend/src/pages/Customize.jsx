@@ -8,7 +8,7 @@ import AI5 from '../assets/AI5.png'
 import AI6 from '../assets/AI6.png'
 import AI7 from '../assets/AI7.png'
 import { BiCloudUpload } from "react-icons/bi";
-import { userDataContext } from '../context/userContext.jsx'
+import { userDataContext } from '../context/UserContext.jsx'
 import { useNavigate } from 'react-router-dom';
 
 const Customize = () => {
